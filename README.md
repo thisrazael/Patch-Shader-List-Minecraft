@@ -1,5 +1,18 @@
 # Minecraft List _new_
 
+> [!NOTE]
+> Aplikasi yang ditambal adalah file APK Minecraft yang menyertakan Materialbinloader yang didukung oleh pengembang Years Static Shader.
+Dengan Materialbinloader, Anda dapat dengan mudah menerapkan atau menghapus paket shader Render Dragon, yang kompatibel dengannya, sebagai paket sumber daya.
+
+> [!TIP]
+> Periksa apakah ponsel Anda 32-bit atau 64-bit.
+Jika nama APK mengandung arm64, itu berarti mendukung 64-bit, dan jika mengandung arm32, itu berarti mendukung 32-bit.
+Jika Anda ingin membuat aplikasi yang ditambal sendiri, gunakan Draco Injector.
+
+> [!WARNING]
+> Perubahan signifikan telah dilakukan pada materi yang ada sejak versi **<U>1.20.80</U>**.  
+> Harap periksa apakah shader yang ingin Anda gunakan didukung oleh versi **<U>1.20.80</U>** dan yang lebih baru.
+
 - [1.19.83.01 [ Patch ]](https://www.mediafire.com/file/6sz1fusghiwaw7t/1.19.83.01_arm64_v8a_patched.apk/file)
 - [1.20.0.01 [ Patch ]](https://www.mediafire.com/file/hsiuqd1h512xu5r/1.20.0.01_arm64_v8a_patched.apk/file)
 - [1.20.1.02 [ Patch]](https://www.mediafire.com/file/l9eclrhvklgo1kc/1.20.1.02_arm64_v8a_patched.apk/file)
