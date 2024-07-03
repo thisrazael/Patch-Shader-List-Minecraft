@@ -1,4 +1,7 @@
 # Minecraft List <sup/>_new_<sup/>
+**[Newb Community](https://discord.com/invite/newb-community-844591537430069279)**
+<br/>
+**[Year Static Shader Group](https://discord.com/invite/yss)**
 
 > [!NOTE]
 > Aplikasi yang ditambal adalah file APK Minecraft yang menyertakan Materialbinloader yang didukung oleh pengembang Years Static Shader.
