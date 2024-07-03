@@ -1,4 +1,4 @@
-# Minecraft List _new_
+# Minecraft List <sup/>_new_<sup/>
 
 > [!NOTE]
 > Aplikasi yang ditambal adalah file APK Minecraft yang menyertakan Materialbinloader yang didukung oleh pengembang Years Static Shader.
